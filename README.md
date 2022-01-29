@@ -2,7 +2,7 @@
 ## Using FM
 
 - [ ] Beginner {~27 h}
-  - [ ] Complete Intro to Web Development, v2 {11 h 5 m}
+  - [x] Complete Intro to Web Development, v2 {11 h 5 m}
   - [ ] Getting Started with CSS {3 h 19 m}
   - [ ] Getting Started with JavaScript, v2 {2 h 36 m}
   - [ ] JavaScript: From Fundamentals to Functional JS, v2 {8 h 11 m}
