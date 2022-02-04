@@ -33,6 +33,14 @@
 - [ ] Nextjs
 - [ ] Svelte
 
+- [ ] MongoDB {~52 h}
+  - [ ] MongoDB Basics {8.5 h}
+  - [ ] MongoDB for SQL Pros {2 h}
+  - [ ] Basic Cluster Administration {9.5 h}
+  - [ ] Aggregation Framework {8.5 h}
+  - [ ] MongoDB for Developers - JS & Python {10 h}
+  - [ ] MongoDB Performance {7 h}
+  - [ ] MongoDB Data Modeling {7 h }
 
 - [ ] Expert (Not necessary)
   - [ ] JavaScript: The New Hard Parts
