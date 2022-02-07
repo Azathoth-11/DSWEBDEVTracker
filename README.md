@@ -35,6 +35,12 @@
 
 - [ ] MongoDB {~52 h}
   - [ ] MongoDB Basics {8.5 h}
+    - [x] Chapter 1
+    - [ ] Chapter 2
+    - [ ] Chapter 3
+    - [ ] Chapter 4
+    - [ ] Chapter 5
+    - [ ] Chapter 6
   - [ ] MongoDB for SQL Pros {2 h}
   - [ ] Basic Cluster Administration {9.5 h}
   - [ ] Aggregation Framework {8.5 h}
