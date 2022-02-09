@@ -51,7 +51,7 @@
 - [ ] JavaScript FreeCodeCamp 
   - [x] Basic JavaScript
   - [x] ES6
-  - [ ] Regular Expressions
+  - [x] Regular Expressions
   - [ ] Debugging
   - [ ] Basic Data Structures
   - [ ] Basic Algorithm Scripting
