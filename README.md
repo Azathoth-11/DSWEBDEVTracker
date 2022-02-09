@@ -1,12 +1,12 @@
 # DSWEBDEVTracker
 ## Using FM
 
-- [ ] Beginner {~27 h}
+- [x] Beginner {~27 h}
   - [x] Complete Intro to Web Development, v2 {11 h 5 m}
   - [x] Getting Started with CSS {3 h 19 m}
   - [x] Getting Started with JavaScript, v2 {2 h 36 m}
   - [x] JavaScript: From Fundamentals to Functional JS, v2 {8 h 11 m}
-  - [ ] Website Accessibility, v2 {2 h 52 m}
+  - [x] Website Accessibility, v2 {2 h 52 m}
  
 - [ ] Professional {~55 h}
   - [ ] JavaScript: The Hard Parts, v2 {6 h 41 m}
