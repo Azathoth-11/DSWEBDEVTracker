@@ -37,7 +37,7 @@
   - [ ] MongoDB Basics {8.5 h}
     - [x] Chapter 1
     - [x] Chapter 2
-    - [ ] Chapter 3
+    - [x] Chapter 3
     - [ ] Chapter 4
     - [ ] Chapter 5
     - [ ] Chapter 6
