@@ -53,7 +53,7 @@
   - [x] ES6
   - [x] Regular Expressions
   - [x] Debugging
-  - [ ] Basic Data Structures
+  - [x] Basic Data Structures
   - [ ] Basic Algorithm Scripting
   - [ ] Object Oriented Programming
   - [ ] Functional Programming
