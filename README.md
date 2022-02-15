@@ -54,7 +54,7 @@
   - [x] Regular Expressions
   - [x] Debugging
   - [x] Basic Data Structures
-  - [ ] Basic Algorithm Scripting
+  - [x] Basic Algorithm Scripting
   - [ ] Object Oriented Programming
   - [ ] Functional Programming
   - [ ] Intermediate Algorithm Scripting
