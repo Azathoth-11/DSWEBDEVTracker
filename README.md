@@ -55,7 +55,7 @@
   - [x] Debugging
   - [x] Basic Data Structures
   - [x] Basic Algorithm Scripting
-  - [ ] Object Oriented Programming
+  - [x] Object Oriented Programming
   - [ ] Functional Programming
   - [ ] Intermediate Algorithm Scripting
   - [ ] JavaScript Algorithms and Data Structures Projects
