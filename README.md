@@ -9,7 +9,7 @@
   - [x] Website Accessibility, v2 {2 h 52 m}
  
 - [ ] Professional {~55 h}
-  - [ ] JavaScript: The Hard Parts, v2 {6 h 41 m}
+  - [x] JavaScript: The Hard Parts, v2 {6 h 41 m}
   - [ ] Deep JavaScript Foundations, v3 {10 h 32 m}
   - [ ] Complete Intro to React, v6 {5 h 41 m}
     - [ ] Intermediate React, v3 {6 h 7 m}
