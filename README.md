@@ -1,6 +1,6 @@
 # DSWEBDEVTracker
 
-### FreeCodeCamp
+## FreeCodeCamp
 - [ ] JavaScript FreeCodeCamp 
   - [x] Basic JavaScript
   - [x] ES6
@@ -54,7 +54,7 @@
   - [ ] Developer Productivity
   - [ ] Asynchronous Programming in JavaScript (with Rx.js Observables)
 
-### Bookmarks
+## Bookmarks
 - [ ] Build Progressive Web Apps (PWAs) from Scratch
 - [ ] Svelte
 - [ ] Complete Intro to Real-Time
@@ -84,7 +84,7 @@
 
 
 
-### MongoDB
+## MongoDB
 - [ ] MongoDB {~52 h}
   - [ ] MongoDB Basics {8.5 h}
     - [x] Chapter 1
