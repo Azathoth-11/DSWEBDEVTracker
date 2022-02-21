@@ -1,5 +1,18 @@
 # DSWEBDEVTracker
 
+### FreeCodeCamp
+- [ ] JavaScript FreeCodeCamp 
+  - [x] Basic JavaScript
+  - [x] ES6
+  - [x] Regular Expressions
+  - [x] Debugging
+  - [x] Basic Data Structures
+  - [x] Basic Algorithm Scripting
+  - [x] Object Oriented Programming
+  - [ ] Functional Programming
+  - [ ] Intermediate Algorithm Scripting
+  - [ ] JavaScript Algorithms and Data Structures Projects
+
 ## Using FM
 - [x] Beginner {~27 h}
   - [x] Complete Intro to Web Development, v2 {11 h 5 m}
@@ -11,7 +24,7 @@
 - [ ] Professional {~55 h}
   - [x] JavaScript: The Hard Parts, v2 {6 h 41 m}
   - [ ] Deep JavaScript Foundations, v3 {10 h 32 m}
-  - [ ] The Hard Parts of Functional JavaScript {4 h 54 m}
+  - [ ] The Hard Parts of Functional JavaScript {4 h 54 m} // Till 1 March 2022
   - [ ] Complete Intro to React, v6 {5 h 41 m}
     - [ ] Intermediate React, v3 {6 h 7 m}
     - [ ] State Management in Pure React, v2 {4 h 27 m}
@@ -28,7 +41,7 @@
   - [ ] Introduction to Node.js, v2 {4 h 51 m}
   - [ ] The Hard Parts of Servers & Node.js {5 h 16 m}
   - [ ] API Design in Node.js, v3 {3 h 34 m}
-  - [ ] AWS for Front-End Engineers, v2 (ft. S3, Cloudfront & Route 53) {3 h 16 m}
+  - [ ] AWS for Front-End Engineers, v2 (ft. S3, Cloudfront & Route 53) {4 h 16 m}
   - [ ] Complete Intro to Containers (feat. Docker) {6 h 4 m}
 
 - [ ] Expert (Not necessary)
@@ -83,20 +96,3 @@
   - [ ] MongoDB for SQL Pros {2 h}
   - [ ] Aggregation Framework {8.5 h} //If time permits
   - [ ] MongoDB for Developers - JS & Python {10 h}
-  - [ ] MongoDB Performance {7 h}
-  - [ ] MongoDB Data Modeling {7 h }
-
-### FreeCodeCamp
-- [ ] JavaScript FreeCodeCamp 
-  - [x] Basic JavaScript
-  - [x] ES6
-  - [x] Regular Expressions
-  - [x] Debugging
-  - [x] Basic Data Structures
-  - [x] Basic Algorithm Scripting
-  - [x] Object Oriented Programming
-  - [ ] Functional Programming
-  - [ ] Intermediate Algorithm Scripting
-  - [ ] JavaScript Algorithms and Data Structures Projects
-
-
