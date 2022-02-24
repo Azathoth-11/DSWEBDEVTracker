@@ -55,37 +55,41 @@
   - [ ] Asynchronous Programming in JavaScript (with Rx.js Observables)
 
 ## Bookmarks
-- [ ] Build Progressive Web Apps (PWAs) from Scratch
-- [ ] Svelte
-- [ ] Complete Intro to Real-Time
-- [ ] React and TypeScript
-- [ ] Introduction to Dev Tools, v3
-- [ ] Production-Grade Next.js
-- [ ] Enterprise Architecture Patterns
-- [ ] Production-Grade TypeScript
-- [ ] Getting a Front-End Developer Job
-- [ ] Introduction to Next.js
-- [ ] Introduction to Serverless Functions
-- [ ] Advanced Creative Coding with WebGL & Shaders
-- [ ] Interviewing for Front-End Engineers
-- [ ] Visual Studio Code
-- [ ] Visual Studio Code Can Do That?
-- [ ] Exploring Service Workers
-- [ ] Digging Into Node.js
-- [ ] SVG Essentials & Animation, v2
-- [ ] Design for Developers
-- [ ] Responsive Web Typography v2
-- [ ] Webpack 4 Fundamentals
-- [ ] JavaScript Performance
-- [ ] Modern Search Engine Optimization (SEO)
-- [ ] Sass Fundamentals
-- [ ] Secure Authentication for Web Apps & APIs Using JWTs
-- [ ] Dynamic CSS with Custom Properties (aka CSS Variables)
+- [ ] Build Progressive Web Apps (PWAs) from Scratch {3 hours, 48 minutes}
+- [ ] Svelte {4 hours, 47 minutes}
+- [ ] Complete Intro to Real-Time {3 hours, 25 minutes}
+- [ ] React and TypeScript {5 hours, 3 minutes}
+- [ ] Introduction to Dev Tools, v3 {3 hours, 22 minutes}
+- [ ] Production-Grade Next.js {3 hours, 57 minutes}
+- [ ] Enterprise Architecture Patterns {5 hours, 39 minutes}
+- [ ] Production-Grade TypeScript {5 hours, 10 minutes}
+- [ ] Getting a Front-End Developer Job {2 hours, 43 minutes}
+- [ ] Introduction to Next.js {3 hours, 56 minutes}
+- [ ] Introduction to Serverless Functions {2 hours, 58 minutes}
+- [ ] Advanced Creative Coding with WebGL & Shaders {4 hours, 17 minutes}
+- [ ] Interviewing for Front-End Engineers {2 hours, 53 minutes}
+- [ ] Visual Studio Code {4 hours, 59 minutes}
+- [ ] Visual Studio Code Can Do That? {3 hours, 35 minutes}
+- [ ] Exploring Service Workers {4 hours, 15 minutes}
+- [ ] Digging Into Node.js {4 hours, 0 minutes}
+- [ ] SVG Essentials & Animation, v2 {4 hours, 12 minutes}
+- [ ] Design for Developers {4 hours, 20 minutes}
+- [ ] Responsive Web Typography v2 {4 hours, 24 minutes}
+- [ ] Webpack 4 Fundamentals {4 hours, 10 minutes}
+- [ ] JavaScript Performance {4 hours, 55 minutes}
+- [ ] Functional-Light JavaScript, v3 {10 hours, 1 minutes}
+- [ ] Advanced Asynchronous JavaScript {3 hours, 34 minutes}
+- [ ] Modern Search Engine Optimization (SEO) {4 hours, 4 minutes }
+- [ ] Sass Fundamentals {3 hours, 44 minutes}
+- [ ] Secure Authentication for Web Apps & APIs Using JWTs {3 hours, 22 minutes}
+- [ ] Dynamic CSS with Custom Properties (aka CSS Variables) {3 hours, 54 minutes}
+- [ ] Web UX Design for High Converting Websites {4 hours, 49 minutes}
+- [ ] Firebase with React, v2 {4 hours, 47 minutes}
 
 
 
 ## MongoDB
-- [ ] MongoDB {~52 h}
+- [ ] MongoDB {~30 h}
   - [ ] MongoDB Basics {8.5 h}
     - [x] Chapter 1
     - [x] Chapter 2
