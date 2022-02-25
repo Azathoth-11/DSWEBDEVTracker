@@ -24,7 +24,7 @@
 - [ ] Professional {~55 h}
   - [x] JavaScript: The Hard Parts, v2 {6 h 41 m}
   - [ ] Deep JavaScript Foundations, v3 {10 h 32 m}
-  - [ ] The Hard Parts of Functional JavaScript {4 h 54 m} // Till 1 March 2022
+  - [x] The Hard Parts of Functional JavaScript {4 h 54 m} // Till 1 March 2022
   - [ ] Complete Intro to React, v6 {5 h 41 m}
     - [ ] Intermediate React, v3 {6 h 7 m}
     - [ ] State Management in Pure React, v2 {4 h 27 m}
