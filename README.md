@@ -9,7 +9,7 @@
   - [x] Basic Data Structures
   - [x] Basic Algorithm Scripting
   - [x] Object Oriented Programming
-  - [ ] Functional Programming
+  - [x] Functional Programming
   - [ ] Intermediate Algorithm Scripting
   - [ ] JavaScript Algorithms and Data Structures Projects
 
