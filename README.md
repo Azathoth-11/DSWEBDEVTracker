@@ -10,7 +10,7 @@
   - [x] Basic Algorithm Scripting
   - [x] Object Oriented Programming
   - [x] Functional Programming
-  - [ ] Intermediate Algorithm Scripting
+  - [x] Intermediate Algorithm Scripting
   - [ ] JavaScript Algorithms and Data Structures Projects
 
 ## Using FM
