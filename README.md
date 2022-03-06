@@ -1,7 +1,7 @@
 # DSWEBDEVTracker
 
 ## FreeCodeCamp
-- [ ] JavaScript FreeCodeCamp 
+- [x] JavaScript FreeCodeCamp 
   - [x] Basic JavaScript
   - [x] ES6
   - [x] Regular Expressions
@@ -11,7 +11,7 @@
   - [x] Object Oriented Programming
   - [x] Functional Programming
   - [x] Intermediate Algorithm Scripting
-  - [ ] JavaScript Algorithms and Data Structures Projects
+  - [x] JavaScript Algorithms and Data Structures Projects
 
 ## Using FM
 - [x] Beginner {~27 h}
