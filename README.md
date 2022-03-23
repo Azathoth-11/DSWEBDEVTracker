@@ -23,11 +23,11 @@
  
 - [ ] Professional {~55 h}
   - [x] JavaScript: The Hard Parts, v2 {6 h 41 m}
-  - [ ] Deep JavaScript Foundations, v3 {10 h 32 m}
+  - [x] Deep JavaScript Foundations, v3 {10 h 32 m}
   - [x] The Hard Parts of Functional JavaScript {4 h 54 m} // Till 1 March 2022
-  - [ ] Complete Intro to React, v6 {5 h 41 m}
-    - [ ] Intermediate React, v3 {6 h 7 m}
-    - [ ] State Management in Pure React, v2 {4 h 27 m}
+  - [x] Complete Intro to React, v6 {5 h 41 m}
+   - [ ] Intermediate React, v3 {6 h 7 m}
+   - [ ] State Management in Pure React, v2 {4 h 27 m}
   - [ ] Web Performance Fundamentals {3 h 50 m}
   - [ ] CSS Grid & Flexbox for Responsive Layouts, v2 {5 h 49 m}
   - [ ] Full Stack for Front-End Engineers, v2 {6 h 19 m}
@@ -56,6 +56,7 @@
 
 ## Bookmarks
 - [ ] Build Progressive Web Apps (PWAs) from Scratch {3 hours, 48 minutes}
+
 - [ ] Svelte {4 hours, 47 minutes}
 - [ ] Complete Intro to Real-Time {3 hours, 25 minutes}
 - [ ] React and TypeScript {5 hours, 3 minutes}
@@ -89,14 +90,6 @@
 
 
 ## MongoDB
-- [ ] MongoDB {~30 h}
-  - [ ] MongoDB Basics {8.5 h}
-    - [x] Chapter 1
-    - [x] Chapter 2
-    - [x] Chapter 3
-    - [ ] Chapter 4
-    - [ ] Chapter 5
-    - [ ] Chapter 6
-  - [ ] MongoDB for SQL Pros {2 h}
-  - [ ] Aggregation Framework {8.5 h} //If time permits
+  - [x] MongoDB Basics 
+  - [ ] MongoDB for SQL Pros
   - [ ] MongoDB for Developers - JS & Python {10 h}
