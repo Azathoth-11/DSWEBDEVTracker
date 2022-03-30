@@ -30,7 +30,7 @@
    - [ ] State Management in Pure React, v2 {4 h 27 m}***
   - [ ] Web Performance Fundamentals {3 h 50 m}***
   - [ ] CSS Grid & Flexbox for Responsive Layouts, v2 {5 h 49 m}***
-  - [ ] Full Stack for Front-End Engineers, v2 {6 h 19 m}***
+  - [x] Full Stack for Front-End Engineers, v2 {6 h 19 m}***
   - [ ] TypeScript Fundamentals, v3 {4 h 27 m}***
   - [ ] Functional JavaScript First Steps  {3 h 54 m}
  
