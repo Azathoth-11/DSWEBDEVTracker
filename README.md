@@ -30,7 +30,7 @@
   - - [x] [Complete Intro to React, v6 {5 h 41 m}](https://frontendmasters.com/courses/complete-react-v6/)
     - - [ ] [Intermediate React, v3 {6 h 7 m}***](https://frontendmasters.com/courses/intermediate-react-v3/)
     - - [ ] [State Management in Pure React, v2 {4 h 27 m}***](https://frontendmasters.com/courses/pure-react-state/)
-  - - [ ] [Web Performance Fundamentals {3 h 50 m}***](https://frontendmasters.com/courses/web-perf/)
+  - - [x] [Web Performance Fundamentals {3 h 50 m}***](https://frontendmasters.com/courses/web-perf/)
   - - [ ] [CSS Grid & Flexbox for Responsive Layouts, v2 {5 h 49 m}***](https://frontendmasters.com/courses/css-grid-flexbox-v2/)
   - - [x] [Full Stack for Front-End Engineers, v2 {6 h 19 m}***](https://frontendmasters.com/courses/fullstack-v2/)
   - - [ ] [TypeScript Fundamentals, v3 {4 h 27 m}***](https://frontendmasters.com/courses/typescript-v3/)
