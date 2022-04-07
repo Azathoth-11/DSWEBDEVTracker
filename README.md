@@ -31,7 +31,7 @@
     - - [ ] [Intermediate React, v3 {6 h 7 m}***](https://frontendmasters.com/courses/intermediate-react-v3/)
     - - [ ] [State Management in Pure React, v2 {4 h 27 m}***](https://frontendmasters.com/courses/pure-react-state/)
   - - [x] [Web Performance Fundamentals {3 h 50 m}***](https://frontendmasters.com/courses/web-perf/)
-  - - [ ] [CSS Grid & Flexbox for Responsive Layouts, v2 {5 h 49 m}***](https://frontendmasters.com/courses/css-grid-flexbox-v2/)
+  - - [ ] [CSS Grid & Flexbox for Responsive Layouts, v2 {5 h 49 m}***](https://frontendmasters.com/courses/css-grid-flexbox-v2/) `In Progress`
   - - [x] [Full Stack for Front-End Engineers, v2 {6 h 19 m}***](https://frontendmasters.com/courses/fullstack-v2/)
   - - [ ] [TypeScript Fundamentals, v3 {4 h 27 m}***](https://frontendmasters.com/courses/typescript-v3/)
   - - [ ] [Functional JavaScript First Steps  {3 h 54 m}](https://frontendmasters.com/courses/functional-first-steps/)
@@ -61,7 +61,7 @@
 
 ## Bookmarks
 1. - [ ] [Build Progressive Web Apps (PWAs) from Scratch {3 hours, 48 minutes}***](https://frontendmasters.com/courses/pwas/)
-2. - [ ] [Build a Fullstack App from Scratch (feat Next.js) {9 hours}***](https://frontendmasters.com/courses/fullstack-app-next/)
+2. - [ ] [Build a Fullstack App from Scratch (feat Next.js) {9 hours}***](https://frontendmasters.com/courses/fullstack-app-next/) `In Progress`
 3. - [ ] [Svelte {4 hours, 47 minutes}](https://frontendmasters.com/courses/svelte/)
 4. - [ ] [Complete Intro to Real-Time {3 hours, 25 minutes}](https://frontendmasters.com/courses/realtime/)
 5. - [ ] [React and TypeScript {5 hours, 3 minutes}***](https://frontendmasters.com/courses/react-typescript/)
