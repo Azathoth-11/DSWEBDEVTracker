@@ -27,8 +27,8 @@
   - - [x] [JavaScript: The Hard Parts, v2 {6 h 41 m}](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
   - - [x] [Deep JavaScript Foundations, v3 {10 h 32 m}](https://frontendmasters.com/courses/deep-javascript-v3/)
   - - [x] [The Hard Parts of Functional JavaScript {4 h 54 m} ](https://frontendmasters.com/courses/functional-js-fundamentals/)
-  - - [x] [Complete Intro to React, v6 {5 h 41 m}](https://frontendmasters.com/courses/complete-react-v6/)
-    - - [ ] [Intermediate React, v3 {6 h 7 m}***](https://frontendmasters.com/courses/intermediate-react-v3/)
+  - - [x] [Complete Intro to React, v7 {5 h 41 m}](https://frontendmasters.com/courses/complete-react-v7/)
+    - - [ ] [Intermediate React, v4 {6 h 7 m}***](https://frontendmasters.com/courses/intermediate-react-v4/)
     - - [ ] [State Management in Pure React, v2 {4 h 27 m}***](https://frontendmasters.com/courses/pure-react-state/)
   - - [x] [Web Performance Fundamentals {3 h 50 m}***](https://frontendmasters.com/courses/web-perf/)
   - - [ ] [CSS Grid & Flexbox for Responsive Layouts, v2 {5 h 49 m}***](https://frontendmasters.com/courses/css-grid-flexbox-v2/) `In Progress`
@@ -73,7 +73,7 @@
 11. - [ ] [Introduction to Next.js {3 hours, 56 minutes}](https://frontendmasters.com/courses/next-js/)
 12. - [ ] [Introduction to Serverless Functions {2 hours, 58 minutes}](https://frontendmasters.com/courses/serverless-functions/)
 13. - [ ] [Advanced Creative Coding with WebGL & Shaders {4 hours, 17 minutes}](https://frontendmasters.com/courses/webgl-shaders/)
-14. - [ ] [Interviewing for Front-End Engineers {2 hours, 53 minutes}](https://frontendmasters.com/courses/interviewing-frontend/)
+14. - [ ] [Interviewing for Front-End Engineers {2 hours, 53 minutes}](https://frontendmasters.com/courses/interviewing-frontend/) `In Progress`
 15. - [ ] [Visual Studio Code Can Do That? {3 hours, 35 minutes}](https://frontendmasters.com/courses/customize-vs-code/)
 16. - [ ] [Exploring Service Workers {4 hours, 15 minutes}](https://frontendmasters.com/courses/service-workers/)
 17. - [ ] [Digging Into Node.js {4 hours, 0 minutes}](https://frontendmasters.com/courses/digging-into-node/)
