@@ -33,7 +33,7 @@
   - - [x] [Web Performance Fundamentals {3 h 50 m}***](https://frontendmasters.com/courses/web-perf/)
   - - [x] [CSS Grid & Flexbox for Responsive Layouts, v2 {5 h 49 m}***](https://frontendmasters.com/courses/css-grid-flexbox-v2/) 
   - - [x] [Full Stack for Front-End Engineers, v2 {6 h 19 m}***](https://frontendmasters.com/courses/fullstack-v2/)
-  - - [ ] [TypeScript Fundamentals, v3 {4 h 27 m}***](https://frontendmasters.com/courses/typescript-v3/)
+  - - [ ] [TypeScript Fundamentals, v3 {4 h 27 m}***](https://frontendmasters.com/courses/typescript-v3/) `In Progress`
   - - [ ] [Functional JavaScript First Steps  {3 h 54 m}](https://frontendmasters.com/courses/functional-first-steps/)
 
 
@@ -61,7 +61,7 @@
 
 ## Bookmarks
 1. - [ ] [Build Progressive Web Apps (PWAs) from Scratch {3 hours, 48 minutes}***](https://frontendmasters.com/courses/pwas/)
-2. - [ ] [Build a Fullstack App from Scratch (feat Next.js) {9 hours}***](https://frontendmasters.com/courses/fullstack-app-next/) `In Progress`
+2. - [ ] [Build a Fullstack App from Scratch (feat Next.js) {9 hours}***](https://frontendmasters.com/courses/fullstack-app-next/) `In Progress 40% done`
 3. - [ ] [Svelte {4 hours, 47 minutes}](https://frontendmasters.com/courses/svelte/)
 4. - [ ] [Complete Intro to Real-Time {3 hours, 25 minutes}](https://frontendmasters.com/courses/realtime/)
 5. - [ ] [React and TypeScript {5 hours, 3 minutes}***](https://frontendmasters.com/courses/react-typescript/)
@@ -73,7 +73,7 @@
 11. - [ ] [Introduction to Next.js {3 hours, 56 minutes}](https://frontendmasters.com/courses/next-js/)
 12. - [ ] [Introduction to Serverless Functions {2 hours, 58 minutes}](https://frontendmasters.com/courses/serverless-functions/)
 13. - [ ] [Advanced Creative Coding with WebGL & Shaders {4 hours, 17 minutes}](https://frontendmasters.com/courses/webgl-shaders/)
-14. - [ ] [Interviewing for Front-End Engineers {2 hours, 53 minutes}](https://frontendmasters.com/courses/interviewing-frontend/) `In Progress`
+14. - [ ] [Interviewing for Front-End Engineers {2 hours, 53 minutes}](https://frontendmasters.com/courses/interviewing-frontend/) `In Progress 20% done`
 15. - [ ] [Visual Studio Code Can Do That? {3 hours, 35 minutes}](https://frontendmasters.com/courses/customize-vs-code/)
 16. - [ ] [Exploring Service Workers {4 hours, 15 minutes}](https://frontendmasters.com/courses/service-workers/)
 17. - [ ] [Digging Into Node.js {4 hours, 0 minutes}](https://frontendmasters.com/courses/digging-into-node/)
