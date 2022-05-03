@@ -61,7 +61,7 @@
 
 ## Bookmarks
 1. - [ ] [Build Progressive Web Apps (PWAs) from Scratch {3 hours, 48 minutes}***](https://frontendmasters.com/courses/pwas/)
-2. - [ ] [Build a Fullstack App from Scratch (feat Next.js) {9 hours}***](https://frontendmasters.com/courses/fullstack-app-next/) `In Progress 80% done`
+2. - [ ] [Build a Fullstack App from Scratch (feat Next.js) {9 hours}***](https://frontendmasters.com/courses/fullstack-app-next/) `In Progress 90% done`
 3. - [ ] [Svelte {4 hours, 47 minutes}](https://frontendmasters.com/courses/svelte/)
 4. - [ ] [Complete Intro to Real-Time {3 hours, 25 minutes}](https://frontendmasters.com/courses/realtime/)
 5. - [ ] [React and TypeScript {5 hours, 3 minutes}***](https://frontendmasters.com/courses/react-typescript/)
