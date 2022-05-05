@@ -73,7 +73,7 @@
 11. - [ ] [Introduction to Next.js {3 hours, 56 minutes}](https://frontendmasters.com/courses/next-js/)
 12. - [ ] [Introduction to Serverless Functions {2 hours, 58 minutes}](https://frontendmasters.com/courses/serverless-functions/)
 13. - [ ] [Advanced Creative Coding with WebGL & Shaders {4 hours, 17 minutes}](https://frontendmasters.com/courses/webgl-shaders/)
-14. - [ ] [Interviewing for Front-End Engineers {2 hours, 53 minutes}](https://frontendmasters.com/courses/interviewing-frontend/) `In Progress 20% done`
+14. - [ ] [Interviewing for Front-End Engineers {2 hours, 53 minutes}](https://frontendmasters.com/courses/interviewing-frontend/)
 15. - [ ] [Visual Studio Code Can Do That? {3 hours, 35 minutes}](https://frontendmasters.com/courses/customize-vs-code/)
 16. - [ ] [Exploring Service Workers {4 hours, 15 minutes}](https://frontendmasters.com/courses/service-workers/)
 17. - [ ] [Digging Into Node.js {4 hours, 0 minutes}](https://frontendmasters.com/courses/digging-into-node/)
