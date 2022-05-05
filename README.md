@@ -39,7 +39,7 @@
 
  
 - [ ] FullStack {~41 h}
-  - - [x] [Full Stack for Front-End Engineers, v2 {6 h 19 m}***](https://frontendmasters.com/courses/fullstack-v2/)
+  - - [x] [Full Stack for Front-End Engineers, v2 {6 h 19 m}***](https://frontendmasters.com/courses/fullstack-v2/) `Watch later again`
   - - [ ] [Complete Intro to Databases {7 h 4 m}***](https://frontendmasters.com/courses/databases/)
   - - [ ] [Complete Intro to Linux and the Command-Line {6 h 48 m}](https://frontendmasters.com/courses/linux-command-line/)
   - - [ ] [VIM Fundamentals {4 h 14 m}](https://frontendmasters.com/courses/vim-fundamentals/)
@@ -61,7 +61,7 @@
 
 ## Bookmarks
 1. - [ ] [Build Progressive Web Apps (PWAs) from Scratch {3 hours, 48 minutes}***](https://frontendmasters.com/courses/pwas/)
-2. - [ ] [Build a Fullstack App from Scratch (feat Next.js) {9 hours}***](https://frontendmasters.com/courses/fullstack-app-next/) `In Progress 90% done`
+2. - [x] [Build a Fullstack App from Scratch (feat Next.js) {9 hours}***](https://frontendmasters.com/courses/fullstack-app-next/)
 3. - [ ] [Svelte {4 hours, 47 minutes}](https://frontendmasters.com/courses/svelte/)
 4. - [ ] [Complete Intro to Real-Time {3 hours, 25 minutes}](https://frontendmasters.com/courses/realtime/)
 5. - [ ] [React and TypeScript {5 hours, 3 minutes}***](https://frontendmasters.com/courses/react-typescript/)
