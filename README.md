@@ -33,7 +33,7 @@
   - - [x] [Web Performance Fundamentals {3 h 50 m}***](https://frontendmasters.com/courses/web-perf/)
   - - [x] [CSS Grid & Flexbox for Responsive Layouts, v2 {5 h 49 m}***](https://frontendmasters.com/courses/css-grid-flexbox-v2/) 
   - - [x] [Full Stack for Front-End Engineers, v2 {6 h 19 m}***](https://frontendmasters.com/courses/fullstack-v2/)
-  - - [ ] [TypeScript Fundamentals, v3 {4 h 27 m}***](https://frontendmasters.com/courses/typescript-v3/) `In Progress 10% done`
+  - - [ ] [TypeScript Fundamentals, v3 {4 h 27 m}***](https://frontendmasters.com/courses/typescript-v3/) `In Progress 20% done`
   - - [ ] [Functional JavaScript First Steps  {3 h 54 m}](https://frontendmasters.com/courses/functional-first-steps/)
 
 
