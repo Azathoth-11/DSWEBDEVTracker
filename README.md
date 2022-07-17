@@ -33,7 +33,7 @@
   - - [x] [Web Performance Fundamentals {3 h 50 m}***](https://frontendmasters.com/courses/web-perf/)
   - - [x] [CSS Grid & Flexbox for Responsive Layouts, v2 {5 h 49 m}***](https://frontendmasters.com/courses/css-grid-flexbox-v2/) 
   - - [x] [Full Stack for Front-End Engineers, v2 {6 h 19 m}***](https://frontendmasters.com/courses/fullstack-v2/)
-  - - [ ] [TypeScript Fundamentals, v3 {4 h 27 m}***](https://frontendmasters.com/courses/typescript-v3/) `In Progress 20% done`
+  - - [ ] [TypeScript Fundamentals, v3 {4 h 27 m}***](https://frontendmasters.com/courses/typescript-v3/)
   - - [ ] [Functional JavaScript First Steps  {3 h 54 m}](https://frontendmasters.com/courses/functional-first-steps/)
 
 
@@ -77,19 +77,18 @@
 15. - [ ] [Visual Studio Code Can Do That? {3 hours, 35 minutes}](https://frontendmasters.com/courses/customize-vs-code/)
 16. - [ ] [Exploring Service Workers {4 hours, 15 minutes}](https://frontendmasters.com/courses/service-workers/)
 17. - [ ] [Digging Into Node.js {4 hours, 0 minutes}](https://frontendmasters.com/courses/digging-into-node/)
-18. - [ ] [SVG Essentials & Animation, v2 {4 hours, 12 minutes}](https://frontendmasters.com/courses/svg-essentials-animation/)
-19. - [ ] [Design for Developers {4 hours, 20 minutes}***](https://frontendmasters.com/courses/design-for-developers/)
-20. - [ ] [Responsive Web Typography v2 {4 hours, 24 minutes}***](https://frontendmasters.com/courses/responsive-typography-v2/)
-21. - [ ] [Webpack 4 Fundamentals {4 hours, 10 minutes}***](https://frontendmasters.com/courses/webpack-fundamentals/)
-22. - [ ] [JavaScript Performance {4 hours, 55 minutes}***](https://frontendmasters.com/courses/web-performance/)
-23. - [ ] [Functional-Light JavaScript, v3 {10 hours, 1 minutes}](https://frontendmasters.com/courses/functional-javascript-v3/)
-24. - [ ] [Advanced Asynchronous JavaScript {3 hours, 34 minutes}***](https://frontendmasters.com/courses/advanced-async-js/)
-25. - [ ] [Modern Search Engine Optimization (SEO) {4 hours, 4 minutes }***](https://frontendmasters.com/courses/modern-seo/)
-26. - [ ] [Sass Fundamentals {3 hours, 44 minutes}***](https://frontendmasters.com/courses/sass/)
-27. - [ ] [Secure Authentication for Web Apps & APIs Using JWTs {3 hours, 22 minutes}***](https://frontendmasters.com/courses/secure-auth-jwt/)
-28. - [ ] [Dynamic CSS with Custom Properties (aka CSS Variables) {3 hours, 54 minutes}](https://frontendmasters.com/courses/css-variables/)
-29. - [ ] [Web UX Design for High Converting Websites {4 hours, 49 minutes}](https://frontendmasters.com/courses/ux-design-principles/)
-30. - [ ] [Firebase with React, v2 {4 hours, 47 minutes}***](https://frontendmasters.com/courses/firebase-react-v2/)
+18. - [ ] [Design for Developers {4 hours, 20 minutes}***](https://frontendmasters.com/courses/design-for-developers/)
+19. - [ ] [Responsive Web Typography v2 {4 hours, 24 minutes}***](https://frontendmasters.com/courses/responsive-typography-v2/)
+20. - [ ] [Webpack 4 Fundamentals {4 hours, 10 minutes}***](https://frontendmasters.com/courses/webpack-fundamentals/)
+21. - [ ] [JavaScript Performance {4 hours, 55 minutes}***](https://frontendmasters.com/courses/web-performance/)
+22. - [ ] [Functional-Light JavaScript, v3 {10 hours, 1 minutes}](https://frontendmasters.com/courses/functional-javascript-v3/)
+23. - [ ] [Advanced Asynchronous JavaScript {3 hours, 34 minutes}***](https://frontendmasters.com/courses/advanced-async-js/)
+24. - [ ] [Modern Search Engine Optimization (SEO) {4 hours, 4 minutes }***](https://frontendmasters.com/courses/modern-seo/)
+25. - [ ] [Sass Fundamentals {3 hours, 44 minutes}***](https://frontendmasters.com/courses/sass/)
+26. - [ ] [Secure Authentication for Web Apps & APIs Using JWTs {3 hours, 22 minutes}***](https://frontendmasters.com/courses/secure-auth-jwt/)
+27. - [ ] [Dynamic CSS with Custom Properties (aka CSS Variables) {3 hours, 54 minutes}](https://frontendmasters.com/courses/css-variables/)
+28. - [ ] [Web UX Design for High Converting Websites {4 hours, 49 minutes}](https://frontendmasters.com/courses/ux-design-principles/)
+29. - [ ] [Firebase with React, v2 {4 hours, 47 minutes}***](https://frontendmasters.com/courses/firebase-react-v2/)
 
 ## MongoDB
   - [x] MongoDB Basics 
