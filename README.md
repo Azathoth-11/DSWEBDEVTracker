@@ -45,7 +45,7 @@
   - - [ ] [VIM Fundamentals {4 h 14 m}](https://frontendmasters.com/courses/vim-fundamentals/)
   - - [x] [Introduction to Node.js, v2 {4 h 51 m}***](https://frontendmasters.com/courses/node-js-v2/)
   - - [ ] [The Hard Parts of Servers & Node.js {5 h 16 m}***](https://frontendmasters.com/courses/servers-node-js/)
-  - - [ ] [API Design in Node.js, v3 {3 h 34 m}***](https://frontendmasters.com/courses/api-design-nodejs-v3/) `20% completed`
+  - - [ ] [API Design in Node.js, v3 {3 h 34 m}***](https://frontendmasters.com/courses/api-design-nodejs-v3/) `40% completed`
   - - [ ] [AWS for Front-End Engineers, v2 (ft. S3, Cloudfront & Route 53) {4 h 16 m}***](https://frontendmasters.com/courses/aws-v2/)
   - - [ ] [Complete Intro to Containers (feat. Docker) {6 h 4 m}***](https://frontendmasters.com/courses/complete-intro-containers/)
 
