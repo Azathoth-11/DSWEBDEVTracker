@@ -41,7 +41,7 @@
 - [ ] FullStack {~41 h}
   - - [x] [Full Stack for Front-End Engineers, v2 {6 h 19 m}***](https://frontendmasters.com/courses/fullstack-v2/) `Watch later again`
   - - [ ] [Complete Intro to Databases {7 h 4 m}***](https://frontendmasters.com/courses/databases/)
-  - - [ ] [Complete Intro to Linux and the Command-Line {6 h 48 m}](https://frontendmasters.com/courses/linux-command-line/)
+  - - [x] [Complete Intro to Linux and the Command-Line {6 h 48 m}](https://frontendmasters.com/courses/linux-command-line/)
   - - [ ] [VIM Fundamentals {4 h 14 m}](https://frontendmasters.com/courses/vim-fundamentals/)
   - - [x] [Introduction to Node.js, v2 {4 h 51 m}***](https://frontendmasters.com/courses/node-js-v2/)
   - - [ ] [The Hard Parts of Servers & Node.js {5 h 16 m}***](https://frontendmasters.com/courses/servers-node-js/)
