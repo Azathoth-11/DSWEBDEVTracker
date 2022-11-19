@@ -2,7 +2,7 @@
 
 ## FreeCodeCamp
 - [x] JavaScript FreeCodeCamp 
-  - - [] [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+  - - [_] [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
   - - [x] [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
   - - [x] [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
   - - [x] [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging)
